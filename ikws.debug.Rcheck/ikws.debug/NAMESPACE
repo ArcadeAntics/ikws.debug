@@ -1,8 +1,0 @@
-useDynLib(ikws.debug, .registration = TRUE, .fixes = ".C_")
-
-
-## a dummy import just to load package:this.path
-importFrom(this.path, this.path)
-
-
-export(PRINFO, mkPROMISE, mkEVPROMISE, unlockEnvironment)
