@@ -1,0 +1,26 @@
+{
+    "id": "4E93A8E6",
+    "path": "~/ikws.debug/check-this.R",
+    "project_path": "check-this.R",
+    "type": "r_source",
+    "hash": "3821977476",
+    "contents": "",
+    "dirty": false,
+    "created": 1718325271674.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718812968,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718812968679,
+    "read_only": false,
+    "read_only_alternatives": []
+}
